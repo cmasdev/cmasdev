@@ -3,7 +3,7 @@
 Professional software developer, software engineer, teacher, entrepreneur and Microsoft MVP (Most Valuable Professional) in business applications.
 
 ### 📫 How to reach me
-- Twitter:  http://twitch.tv/christianamado
+- Twitter:  https://twitter.com/christianamado
 - YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
 - Periscope:  https://www.pscp.tv/christianamado
 - Medium:  https://cmasdev.medium.com/
@@ -12,9 +12,9 @@ Professional software developer, software engineer, teacher, entrepreneur and Mi
 - No one yet!
 
 ### 🌱 I’m currently learning
+- Blazor: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
 - Flutter: https://flutter.dev/
 - Firebase: https://firebase.google.com
-- Blazor: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
 
 <!--
 Here are some ideas to get you started:
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 Desarrollador de software profesional, ingeniero en informática, profesor, emprendedor y Microsoft MVP (Most Valuable Professional) en aplicaciones de negocios.
 
 ### 📫 ¿Cómo contactarme?
-- Twitter:  http://twitch.tv/christianamado
+- Twitter:  https://twitter.com/christianamado
 - YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
 - Periscope:  https://www.pscp.tv/christianamado
 - Medium:  https://cmasdev.medium.com/
@@ -43,6 +43,6 @@ Desarrollador de software profesional, ingeniero en informática, profesor, empr
 - ¡Ninguno todavía!
 
 ### 🌱 Actualmente estoy aprendiendo
+- Blazor: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
 - Flutter: https://flutter.dev/
 - Firebase: https://firebase.google.com
-- Blazor: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
