@@ -5,7 +5,7 @@ Professional software developer, software engineer, teacher, entrepreneur and Mi
 ### 📫 How to reach me
 - Twitter:  https://twitter.com/christianamado
 - YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
-- Medium:  https://cmasdev.medium.com/
+- Blog:  https://cmas.dev/en/
 
 ### 📺 Latest Videos
 - No one yet!
@@ -35,7 +35,7 @@ Desarrollador de software profesional, ingeniero en informática, profesor, empr
 ### 📫 ¿Cómo contactarme?
 - Twitter:  https://twitter.com/christianamado
 - YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
-- Medium:  https://cmasdev.medium.com/
+- Blog:  https://cmas.dev/
 
 ### 📺 Últimos videos
 - ¡Ninguno todavía!
