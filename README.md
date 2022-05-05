@@ -1,19 +1,19 @@
 ### Hi, I'm Christian Amado 👋
 
-Professional software developer, software engineer, teacher, entrepreneur and Microsoft MVP (Most Valuable Professional) in business applications.
+Professional software engineer, teacher, nerd and Microsoft MVP (Most Valuable Professional) in business applications.
 
 ### 📫 How to reach me
 - Twitter:  https://twitter.com/christianamado
-- YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
 - Blog:  https://cmas.dev/en/
+- YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
 
 ### 📺 Latest Videos
 - No one yet!
 
 ### 🌱 I’m currently learning
-- Blazor: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
+- Windows App Development: https://docs.microsoft.com/en-us/windows/apps/desktop/
 - WSL: https://docs.microsoft.com/en-us/windows/wsl/
-- Azure AI: https://azure.microsoft.com/en-us/overview/ai-platform/
+- Python: https://docs.python.org/3.10/
 
 <!--
 Here are some ideas to get you started:
@@ -30,17 +30,17 @@ Here are some ideas to get you started:
 ---
 ### Hola, Soy Christian Amado 👋
 
-Desarrollador de software profesional, ingeniero en informática, profesor, emprendedor y Microsoft MVP (Most Valuable Professional) en aplicaciones de negocios.
+Desarrollador de software profesional, ingeniero en informática, profesor, nerd y Microsoft MVP (Most Valuable Professional) en aplicaciones de negocios.
 
 ### 📫 ¿Cómo contactarme?
 - Twitter:  https://twitter.com/christianamado
-- YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
 - Blog:  https://cmas.dev/
+- YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
 
 ### 📺 Últimos videos
 - ¡Ninguno todavía!
 
 ### 🌱 Actualmente estoy aprendiendo
-- Blazor: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
+- Windows App Development: https://docs.microsoft.com/en-us/windows/apps/desktop/
 - WSL: https://docs.microsoft.com/es-es/windows/wsl/
-- Azure AI: https://azure.microsoft.com/es-es/overview/ai-platform/
+- Python: https://docs.python.org/3.10/
