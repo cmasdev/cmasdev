@@ -1,6 +1,6 @@
 ### Hi, I'm Christian Amado 👋
 
-Professional software engineer, teacher, nerd and Microsoft MVP (Most Valuable Professional) in business applications.
+Professional software engineer, teacher, learner and Microsoft MVP (Most Valuable Professional).
 
 ### 📫 How to reach me
 - Twitter:  https://twitter.com/christianamado
@@ -13,7 +13,7 @@ Professional software engineer, teacher, nerd and Microsoft MVP (Most Valuable P
 ### 🌱 I’m currently learning
 - Windows App Development: https://docs.microsoft.com/en-us/windows/apps/desktop/
 - WSL: https://docs.microsoft.com/en-us/windows/wsl/
-- Python: https://docs.python.org/3.10/
+- Go: https://go.dev/
 
 <!--
 Here are some ideas to get you started:
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 ### Hola, Soy Christian Amado 👋
 
-Desarrollador de software profesional, ingeniero en informática, profesor, nerd y Microsoft MVP (Most Valuable Professional) en aplicaciones de negocios.
+Desarrollador de software profesional, ingeniero en informática, profesor, aprendiz y Microsoft MVP (Most Valuable Professional).
 
 ### 📫 ¿Cómo contactarme?
 - Twitter:  https://twitter.com/christianamado
@@ -43,4 +43,4 @@ Desarrollador de software profesional, ingeniero en informática, profesor, nerd
 ### 🌱 Actualmente estoy aprendiendo
 - Windows App Development: https://docs.microsoft.com/en-us/windows/apps/desktop/
 - WSL: https://docs.microsoft.com/es-es/windows/wsl/
-- Python: https://docs.python.org/3.10/
+- Go: https://go.dev/
