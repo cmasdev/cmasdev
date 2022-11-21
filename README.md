@@ -4,6 +4,7 @@ Professional software engineer, teacher, learner and Microsoft MVP (Most Valuabl
 
 ### 📫 How to reach me
 - Twitter:  https://twitter.com/christianamado
+- Mastodon: https://dotnet.social/@christianamado
 - Blog:  https://cmas.dev/en/
 - YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
 
@@ -34,6 +35,7 @@ Desarrollador de software profesional, ingeniero en informática, profesor, apre
 
 ### 📫 ¿Cómo contactarme?
 - Twitter:  https://twitter.com/christianamado
+- Mastodon: https://dotnet.social/@christianamado
 - Blog:  https://cmas.dev/
 - YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
 
