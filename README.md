@@ -12,9 +12,9 @@ Professional software engineer, teacher, learner and Microsoft MVP (Most Valuabl
 - No one yet!
 
 ### 🌱 I’m currently learning
+- .NET MAUI: https://dotnet.microsoft.com/en-us/apps/maui
 - Windows App Development: https://docs.microsoft.com/en-us/windows/apps/desktop/
 - WSL: https://docs.microsoft.com/en-us/windows/wsl/
-- Go: https://go.dev/
 
 <!--
 Here are some ideas to get you started:
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 ### Hola, Soy Christian Amado 👋
 
-Desarrollador de software profesional, ingeniero en informática, profesor, aprendiz y Microsoft MVP (Most Valuable Professional).
+Desarrollador de software profesional, ingeniero de software, profesor, aprendiz y Microsoft MVP (Most Valuable Professional).
 
 ### 📫 ¿Cómo contactarme?
 - Twitter:  https://twitter.com/christianamado
@@ -43,6 +43,6 @@ Desarrollador de software profesional, ingeniero en informática, profesor, apre
 - ¡Ninguno todavía!
 
 ### 🌱 Actualmente estoy aprendiendo
+- .NET MAUI: https://dotnet.microsoft.com/en-us/apps/maui
 - Windows App Development: https://docs.microsoft.com/en-us/windows/apps/desktop/
 - WSL: https://docs.microsoft.com/es-es/windows/wsl/
-- Go: https://go.dev/
