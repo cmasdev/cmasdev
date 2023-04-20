@@ -35,7 +35,7 @@ Desarrollador de software profesional, ingeniero de software, profesor, aprendiz
 
 ### 📫 ¿Cómo contactarme?
 - Twitter:  https://twitter.com/christianamado
-- Mastodon: <a rel="me" href="https://dotnet.social/@christianamado">https://dotnet.social/@christianamado</a>
+- Mastodon: https://dotnet.social/@christianamado
 - Blog:  https://cmas.dev/
 - YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
 
