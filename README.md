@@ -5,16 +5,18 @@ Professional software engineer, teacher, learner and Microsoft MVP (Most Valuabl
 ### 📫 How to reach me
 - Twitter:  https://twitter.com/christianamado
 - Mastodon: <a rel="me" href="https://dotnet.social/@christianamado">https://dotnet.social/@christianamado</a>
-- Blog:  https://cmas.dev/en/
-- YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
+- Blog:  https://cmas.dev/
+- YoutTube:  https://www.youtube.com/@cmasdev
 
 ### 📺 Latest Videos
 - No one yet!
 
 ### 🌱 I’m currently learning
 - .NET MAUI: https://dotnet.microsoft.com/en-us/apps/maui
-- Windows App Development: https://docs.microsoft.com/en-us/windows/apps/desktop/
+- Go: https://go.dev/
 - WSL: https://docs.microsoft.com/en-us/windows/wsl/
+
+![](https://raw.githubusercontent.com/cmasdev/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 Here are some ideas to get you started:
@@ -28,21 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
-### Hola, Soy Christian Amado 👋
-
-Desarrollador de software profesional, ingeniero de software, profesor, aprendiz y Microsoft MVP (Most Valuable Professional).
-
-### 📫 ¿Cómo contactarme?
-- Twitter:  https://twitter.com/christianamado
-- Mastodon: https://dotnet.social/@christianamado
-- Blog:  https://cmas.dev/
-- YoutTube:  https://www.youtube.com/channel/UCehbcF2wgg5TBGtaWlMEvyw
-
-### 📺 Últimos videos
-- ¡Ninguno todavía!
-
-### 🌱 Actualmente estoy aprendiendo
-- .NET MAUI: https://dotnet.microsoft.com/en-us/apps/maui
-- Windows App Development: https://docs.microsoft.com/en-us/windows/apps/desktop/
-- WSL: https://docs.microsoft.com/es-es/windows/wsl/
