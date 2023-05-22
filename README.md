@@ -16,7 +16,7 @@ Professional software engineer, teacher, learner and Microsoft MVP (Most Valuabl
 - Go: https://go.dev/
 - WSL: https://docs.microsoft.com/en-us/windows/wsl/
 
-![](https://raw.githubusercontent.com/cmasdev/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub Stats](https://github.com/cmasdev/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 Here are some ideas to get you started:
