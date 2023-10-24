@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Christian</h2>
+## Hi 👋 I'm Christian
 
 <a  href="#">
 <img  src="https://github.com/cmasdev/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="GitHub stats" align="right" />
@@ -10,8 +10,9 @@
 - 💬 Ask me about: **.NET, C#, Cloud Engineering (Azure), Power Automate, PowerApps, Dynamics 365 Business Central, XAML, CI/CD, Software Development...**
 - 📫 Connect on **[Twitter](https://twitter.com/christianamado), [LinkedIn](https://www.linkedin.com/in/christianamado/), and GitHub**
 
-<h3  align="center">🔧 Technologies & Tools</h3>
-<table  align="center">
+### 🔧 Technologies & Tools
+
+<table>
 	<tr>
 		<td  align="center"  width="96">
 			<a  href="https://www.microsoft.com/en-us/windows" target="_blank">
