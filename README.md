@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently a: **Software Engineering, .NET MAUI and Windows developer**
 - 🌱 I’m currently learning: **Blockchain, AWS, Go**
-- 🏅 Recognized as a **[Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/079507f9-3c9a-e411-93f2-9cb65495d3c4){:target="_blank"} ** from 2015-Present
+- 🏅 Recognized as a **[Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/079507f9-3c9a-e411-93f2-9cb65495d3c4)** from 2015-Present
 - 💬 Ask me about: **.NET, C#, Cloud Engineering (Azure), Power Automate, PowerApps, Dynamics 365 Business Central, XAML, CI/CD, Software Development...**
-- 📫 Connect on **[Twitter](https://twitter.com/christianamado){:target="_blank"} , [LinkedIn](https://www.linkedin.com/in/christianamado/){:target="_blank"} , and GitHub**  
+- 📫 Connect on **[Twitter](https://twitter.com/christianamado), [LinkedIn](https://www.linkedin.com/in/christianamado/), and GitHub**  
 <br />
 
 ### 🔧 Technologies & Tools
