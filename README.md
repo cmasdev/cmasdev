@@ -12,7 +12,7 @@
 <br />
 
 <h2 align="center">🔧 Technologies & Tools</h2>
-<table>
+<table align="center">
 	<tr>
 		<td align="center" width="96">
 			<a href="https://www.microsoft.com/en-us/windows" target="_blank">
@@ -80,7 +80,7 @@
 	<tr>
 		<td align="center" width="96">
 		  <a href="https://www.microsoft.com/en-us/microsoft-365/" target="_blank">
-			<img src="./img/office.svg" width="48" height="48" alt="Microsoft 365" />
+			<img src="./img/microsoft-365.svg" width="48" height="48" alt="Microsoft 365" />
 		  </a>
 		  <p>Microsoft 365</p>
 		</td>
