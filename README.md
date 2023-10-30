@@ -1,4 +1,3 @@
-<a rel="me" href="https://mastodon.social/@cmasdev" style="display:none;">Mastodon</a>
 <h2 align="center">Hi 👋 I'm Christian</h2>
 
 <a  href="#">
