@@ -35,9 +35,6 @@
 		<td align="center" width="96">
 		  &nbsp;
 		</td>
-		<td align="center" width="96">
-		  &nbsp;
-		</td>
 	</tr>
 	<tr>
 		<td align="center" width="150">
@@ -99,9 +96,6 @@
 		<td align="center" width="96">
 		  &nbsp;
 		</td>
-		<td align="center" width="96">
-		  &nbsp;
-		</td>
 	</tr>
 	<tr>
 		<td align="center" width="150">
@@ -130,9 +124,6 @@
 			<img src="./img/rider.svg" width="48" height="48" alt="JetBrains Rider" title="JetBrains Rider" />
 		  </a>
 		  <p>Rider</p>
-		</td>
-		<td align="center" width="96">
-		  &nbsp;
 		</td>
 		<td align="center" width="96">
 		  &nbsp;
