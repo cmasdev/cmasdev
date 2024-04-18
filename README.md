@@ -35,6 +35,9 @@
 		<td align="center" width="96">
 		  &nbsp;
 		</td>
+		<td align="center" width="96">
+		  &nbsp;
+		</td>
 	</tr>
 	<tr>
 		<td align="center" width="150">
@@ -92,6 +95,9 @@
 			<img src="./img/jquery-seeklogo.svg" width="48" height="48" alt="jQuery" title="jQuery" />
 		  </a>
 		  <p>jQuery</p>
+		</td>
+		<td align="center" width="96">
+		  &nbsp;
 		</td>
 		<td align="center" width="96">
 		  &nbsp;
