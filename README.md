@@ -11,8 +11,8 @@
 - 📫 Connect on **[Twitter](https://twitter.com/christianamado), [LinkedIn](https://www.linkedin.com/in/christianamado/), and GitHub**  
 <br />
 
-<h2 align="center">🔧 Technologies & Tools</h2>
-<table align="center">
+<h2>🔧 Technologies & Tools</h2>
+<table>
 	<tr>
 		<td align="center" width="150">
 			<p><b>Operating System</b></p>
@@ -25,7 +25,7 @@
 		</td>
 		<td align="center" width="96">
 			<a href="https://ubuntu.com/desktop" target="_blank">
-				<img src="./img/ubuntu.png" width="48" height="48" alt="Ubuntu" title="Ubuntu" />
+				<img src="./img/Ubuntu.png" width="48" height="48" alt="Ubuntu" title="Ubuntu" />
 			</a>
 			<p>Ubuntu</p>
 		</td>
