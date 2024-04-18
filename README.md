@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Christian</h2>
+<h2>Hi 👋 I'm Christian</h2>
 
 <a  href="#">
 <img  src="https://github.com/cmasdev/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="GitHub stats" align="right" />
