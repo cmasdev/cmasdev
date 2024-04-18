@@ -166,7 +166,7 @@
 	</tr>
 	<tr>
 		<td align="center" width="150">
-			<p><b>Databases</b></p>
+			<p><b>DevOps</b></p>
 		</td>
 		<td align="center" width="96">
 		  <a href="https://github.com/" target="_blank">
