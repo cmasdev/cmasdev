@@ -68,7 +68,7 @@
 		  <a href="https://www.python.org/" target="_blank">
 			<img src="./img/python.png" width="48" height="48" alt="Python" title="Python" />
 		  </a>
-		  <p>Go</p>
+		  <p>Python</p>
 		</td>
 	</tr>
 	<tr>
@@ -214,7 +214,7 @@
 		</td>
 		<td align="center" width="96">
 		  <a href="https://www.microsoft.com/en-us/dynamics-365" target="_blank">
-			<img src="./img/dynamis-365.png" width="48" height="48" alt="Dynamics 365" title="Dynamics 365" />
+			<img src="./img/dynamics-365.png" width="48" height="48" alt="Dynamics 365" title="Dynamics 365" />
 		  </a>
 		  <p>Dynamics 365</p>
 		</td>
