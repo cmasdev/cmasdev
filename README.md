@@ -62,16 +62,18 @@
 		  <p>X++</p>
 		</td>
 		<td align="center" width="96">
-		  <a href="https://go.dev/" target="_blank">
+		  &nbsp;
+		  <!--a href="https://go.dev/" target="_blank">
 			<img src="./img/golang.svg" width="48" height="48" alt="Go" title="Go" />
 		  </a>
-		  <p>Go</p>
+		  <p>Go</p-->
 		</td>
 		<td align="center" width="96">
-		  <a href="https://www.python.org/" target="_blank">
+		  &nbsp;
+		  <!--a href="https://www.python.org/" target="_blank">
 			<img src="./img/python.png" width="48" height="48" alt="Python" title="Python" />
 		  </a>
-		  <p>Python</p>
+		  <p>Python</p-->
 		</td>
 	</tr>
 	<tr>
