@@ -5,7 +5,7 @@
 </a>
 
 - 🔭 I’m currently a: **Software Engineer and .NET developer using C# and Web technologies**
-- 🌱 I’m currently learning: **ML.NET, Blazor and AWS**
+- 🌱 I’m currently learning: **Blazor and AWS**
 - 🏅 Recognized as a **[Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/079507f9-3c9a-e411-93f2-9cb65495d3c4)** from 2015-Present
 - 💬 Ask me about: **[.NET](https://dotnet.microsoft.com/en-us/), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/), [Cloud Engineering (Azure)](https://azure.microsoft.com/en-us), [Power Automate](https://powerautomate.microsoft.com/en-us/), [PowerApps](https://powerapps.microsoft.com/en-us/), [Dynamics 365 Business Central](https://dynamics.microsoft.com/en-us/business-central/overview/), Software Development...**
 - 📫 Connect on **[Twitter](https://twitter.com/christianamado), [LinkedIn](https://www.linkedin.com/in/christianamado/), and GitHub**  
