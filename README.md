@@ -19,7 +19,7 @@
 		</td>
 		<td align="center" width="96">
 			<a href="https://www.microsoft.com/en-us/windows" target="_blank">
-				<img src="./img/windows.svg" width="48" height="48" alt="Windows" title="Windows" />
+				<img src="img/windows.svg" width="48" height="48" alt="Windows" title="Windows" />
 			</a>
 			<p>Windows</p>
 		</td>
