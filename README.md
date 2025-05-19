@@ -57,7 +57,7 @@
 		</td>
 		<td align="center" width="96">
 		  <a href="https://learn.microsoft.com/en-us/dynamicsax-2012/developer/x-language-programming-guide" target="_blank">
-			<img src="img/xplus.png" width="48" height="48" alt="X++" title="X++" />
+			<img src="./img/xplus.png" width="48" height="48" alt="X++" title="X++" />
 		  </a>
 		  <p>X++</p>
 		</td>
@@ -155,7 +155,7 @@
 		</td>
 		<td align="center" width="96">
 		  <a href="https://www.oracle.com/" target="_blank">
-			<img src="img/oracle.svg" width="48" height="48" alt="Oracle" title="Oracle" />
+			<img src="./img/oracle.svg" width="48" height="48" alt="Oracle" title="Oracle" />
 		  </a>
 		  <p>Oracle</p>
 		</td>
@@ -210,13 +210,13 @@
 		</td>
 		<td align="center" width="96">
 		  <a href="https://dynamics.microsoft.com/en-us/business-central/overview/" target="_blank">
-			<img src="img/business-central.svg" width="48" height="48" alt="Business Central" title="Business Central" />
+			<img src="./img/business-central.svg" width="48" height="48" alt="Business Central" title="Business Central" />
 		  </a>
 		  <p>Business Central</p>
 		</td>
 		<td align="center" width="96">
 		  <a href="https://www.microsoft.com/en-us/power-platform/products/power-pages" target="_blank">
-			<img src="img/power-pages.png" width="48" height="48" alt="Power Pages" title="Power Pages" />
+			<img src="./img/power-pages.png" width="48" height="48" alt="Power Pages" title="Power Pages" />
 		  </a>
 		  <p>Power Pages</p>
 		</td>
