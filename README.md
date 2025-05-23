@@ -5,9 +5,9 @@
 </a>
 
 - 🔭 I’m currently a: **Software Engineer and .NET developer using C# and Web technologies**
-- 🌱 I’m currently learning: **Blazor and AWS**
+- 🌱 I’m currently learning: **Deno with typescript**
 - 🏅 Recognized as a **[Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/079507f9-3c9a-e411-93f2-9cb65495d3c4)** from 2015-Present
-- 💬 Ask me about: **[.NET](https://dotnet.microsoft.com/en-us/), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/), [Cloud Engineering (Azure)](https://azure.microsoft.com/en-us), [Power Automate](https://powerautomate.microsoft.com/en-us/), [PowerApps](https://powerapps.microsoft.com/en-us/), [Dynamics 365 Business Central](https://dynamics.microsoft.com/en-us/business-central/overview/), Software Development...**
+- 💬 Ask me about: **[.NET](https://dotnet.microsoft.com/en-us/), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/), [Cloud Engineering (Azure)](https://azure.microsoft.com/en-us), [Dynamics 365 Business Central](https://dynamics.microsoft.com/en-us/business-central/overview/), Software Development...**
 - 📫 Connect on **[Twitter](https://twitter.com/christianamado), [LinkedIn](https://www.linkedin.com/in/christianamado/), and GitHub**  
 <br />
 
@@ -87,16 +87,18 @@
 			<p>.NET</p>
 		</td>
 		<td align="center" width="96">
-		  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">
+		   &nbsp;
+		  <!--<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">
 			<img src="./img/blazor.svg" width="48" height="48" alt="Blazor" title="Blazor" />
 		  </a>
-		  <p>Blazor</p>
+		  <p>Blazor</p>-->
 		</td>
 		<td align="center" width="96">
-		  <a href="https://jquery.com/" target="_blank">
+		   &nbsp;
+		   <!--<a href="https://jquery.com/" target="_blank">
 			<img src="img/jquery-seeklogo.svg" width="48" height="48" alt="jQuery" title="jQuery" />
 		  </a>
-		  <p>jQuery</p>
+		  <p>jQuery</p>-->
 		</td>
 		<td align="center" width="96">
 		  &nbsp;
@@ -128,10 +130,11 @@
 		  <p>DataGrip</p>
 		</td>
 		<td align="center" width="96">
-		  <a href="https://www.jetbrains.com/rider/" target="_blank">
+		  &nbsp;
+		  <!--<a href="https://www.jetbrains.com/rider/" target="_blank">
 			<img src="img/rider.svg" width="48" height="48" alt="JetBrains Rider" title="JetBrains Rider" />
 		  </a>
-		  <p>Rider</p>
+		  <p>Rider</p>-->
 		</td>
 		<td align="center" width="96">
 		  &nbsp;
@@ -154,10 +157,11 @@
 		  <p>PostgreSQL</p>
 		</td>
 		<td align="center" width="96">
+	           &nbsp;
 		  <a href="https://www.oracle.com/" target="_blank">
 			<img src="img/oracle.svg" width="48" height="48" alt="Oracle" title="Oracle" />
 		  </a>
-		  <p>Oracle</p>
+		  <p>Oracle</p>-->
 		</td>
 		<td align="center" width="96">
 		  &nbsp;
