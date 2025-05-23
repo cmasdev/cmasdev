@@ -158,7 +158,7 @@
 		</td>
 		<td align="center" width="96">
 	           &nbsp;
-		  <a href="https://www.oracle.com/" target="_blank">
+		  <!--<a href="https://www.oracle.com/" target="_blank">
 			<img src="img/oracle.svg" width="48" height="48" alt="Oracle" title="Oracle" />
 		  </a>
 		  <p>Oracle</p>-->
