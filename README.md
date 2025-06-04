@@ -1,7 +1,7 @@
 <h2>Hi 👋 I'm Christian</h2>
 
 <a  href="#">
-<img  src="https://github.com/cmasdev/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="GitHub stats" align="right" />
+<img  src="https://github.com/cmasdev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats" align="right" />
 </a>
 
 - 🔭 I’m currently a: **Software Engineer and .NET developer using C# and Web technologies**
