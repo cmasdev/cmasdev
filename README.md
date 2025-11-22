@@ -13,7 +13,4 @@
 - 📫 How to reach me: ... [https://cmas.dev/en/about/](https://cmas.dev/en/about/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... All about Olimpia and Manchester United
-
-<a  href="#">
-<img  src="https://github.com/cmasdev/github-stats/blob/master/generated/overview.svg" alt="GitHub stats" align="right" />
-</a>
+![Christian's github stats](https://github.com/cmasdev/github-stats/blob/master/generated/overview.svg)
