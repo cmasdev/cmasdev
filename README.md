@@ -15,5 +15,5 @@
 - ⚡ Fun fact: ... All about Olimpia and Manchester United
 
 <a  href="#">
-<img  src="https://github.com/cmasdev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats" align="right" />
+<img  src="https://github.com/cmasdev/github-stats/blob/master/generated/overview.svg" alt="GitHub stats" align="right" />
 </a>
