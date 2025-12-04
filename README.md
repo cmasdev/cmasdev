@@ -4,7 +4,7 @@
 - 📝 I write stuff at [cmas.dev](https://cmas.dev/en/posts/) 
 - 🤔 I'm on  [Bluesky](https://bsky.app/profile/cmas.dev)
 - 🤔 I'm on  [Twitter](https://x.com/christianamado)
-- 🌱 I’m currently learning ... AI and Deno!
+- 🌱 I’m currently learning ... Deno and Ubuntu!
 - 💬 Ask me about ... 
 	- .NET
 	- C#
