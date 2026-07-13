@@ -1,14 +1,28 @@
-### Hello 👋
+# Hi, I'm Christian 👋
 
-- 🔭 I’m currently working on ... Blazor Web Apps, Dynamics 365 Business Central using [VS Code](https://code.visualstudio.com/), and always exploring [Azure](https://azure.microsoft.com/)
+Software Engineer focused on building modern applications with **.NET, Azure and AI**.
+
+🏆 Microsoft MVP
+💻 Backend Engineer
+☁ Azure Developer
+🤖 AI Engineering
+🪟 Windows Development
+
+---
+
+## About me
+
+- 🔭 Building AI-powered services with .NET
+- ☁ Working with Azure cloud technologies
+- 🪟 Passionate about Windows Development
+- 📚 Writing technical articles
+- 🎤 Speaker at community events
+- ❤️ Open Source enthusiast
 - 📝 I write stuff at [cmas.dev](https://cmas.dev/en/posts/) 
-- 🤔 I'm on  [Bluesky](https://bsky.app/profile/cmas.dev)
-- 🤔 I'm on  [Twitter](https://x.com/christianamado)
-- 🌱 I’m currently learning ... Deno and Ubuntu!
+- 🤔 I'm on [Twitter](https://x.com/christianamado)
 - 💬 Ask me about ... 
 	- .NET
 	- C#
-	- Business Central (AL)
 	- Azure
 - 📫 How to reach me: ... [https://cmas.dev/en/about/](https://cmas.dev/en/about/)
 - 😄 Pronouns: ... He/Him
