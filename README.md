@@ -1,31 +1,33 @@
-# Hi, I'm Christian 👋
+# Hi, I'm Christian Amado 👋
 
-Software Engineer focused on building modern applications with **.NET, Azure and AI**.
+**Software Engineer | Microsoft MVP ×13**
 
-🏆 Microsoft MVP
-💻 Backend Engineer
-☁ Azure Developer
-🤖 AI Engineering
-🪟 Windows Development
+I'm a software engineer specializing in C# and .NET, with a focus on building modern, scalable, and cloud-native applications.
 
----
+My interests include software architecture, cloud computing, artificial intelligence, and sharing knowledge with the developer community.
 
-## About me
+## 🛠️ Technology Stack
 
-- 🔭 Building AI-powered services with .NET
-- ☁ Working with Azure cloud technologies
-- 🪟 Passionate about Windows Development
-- 📚 Writing technical articles
-- 🎤 Speaker at community events
-- ❤️ Open Source enthusiast
-- 📝 I write stuff at [cmas.dev](https://cmas.dev/en/posts/) 
-- 🤔 I'm on [Twitter](https://x.com/christianamado)
-- 💬 Ask me about ... 
-	- .NET
-	- C#
-	- Azure
-- 📫 How to reach me: ... [https://cmas.dev/en/about/](https://cmas.dev/en/about/)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... All about Olimpia and Manchester United
+| Area | Technologies |
+|---|---|
+| Language | C# |
+| Frameworks | .NET, ASP.NET Core |
+| Cloud | Microsoft Azure, AWS |
+| AI | AI Services |
+| Containers | Docker |
+| Operating System | Ubuntu Linux |
+| Development Tools | JetBrains Rider, Git, GitHub |
 
-![Christian's github stats](https://github.com/cmasdev/github-stats/blob/master/generated/overview.svg)
+## 🏆 Community & Contributions
+
+I'm a **13-time Microsoft MVP**, technical writer, and community speaker.
+
+I enjoy sharing knowledge through technical articles, presentations, and open-source projects.
+
+## 🌐 Connect with me
+
+- **Website & Blog:** [cmas.dev](https://cmas.dev)
+- **LinkedIn:** [christianamado](https://www.linkedin.com/in/christianamado)
+- **GitHub:** [@cmasdev](https://github.com/cmasdev)
+- **X:** [@christianamado](https://x.com/christianamado)
+- **Bluesky:** [@cmas.dev](https://bsky.app/profile/cmas.dev)
