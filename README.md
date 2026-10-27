@@ -16,7 +16,7 @@ My interests include software architecture, cloud computing, artificial intellig
 | AI | AI Services |
 | Containers | Docker |
 | Operating System | Ubuntu Linux |
-| Development Tools | JetBrains Rider, Git, GitHub |
+| Development Tools | VS Code, Git, GitHub |
 
 ## 🏆 Community & Contributions
 
